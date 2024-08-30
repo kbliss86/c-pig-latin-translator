@@ -1,0 +1,7 @@
+C:\Users\Kendall\bootcamp_c_sharp\c-pig-latin-translator\c-pig-latin-translator\bin\Debug\c-pig-latin-translator.exe.config
+C:\Users\Kendall\bootcamp_c_sharp\c-pig-latin-translator\c-pig-latin-translator\bin\Debug\c-pig-latin-translator.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-pig-latin-translator\c-pig-latin-translator\bin\Debug\c-pig-latin-translator.pdb
+C:\Users\Kendall\bootcamp_c_sharp\c-pig-latin-translator\c-pig-latin-translator\obj\Debug\c-pig-latin-translator.csproj.AssemblyReference.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-pig-latin-translator\c-pig-latin-translator\obj\Debug\c-pig-latin-translator.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-pig-latin-translator\c-pig-latin-translator\obj\Debug\c-pig-latin-translator.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-pig-latin-translator\c-pig-latin-translator\obj\Debug\c-pig-latin-translator.pdb
